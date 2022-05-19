@@ -7,7 +7,7 @@ if you somehow found this project then:
 basicaly heres how it goes
 
 1. you say if somethings wrong
-2. i fix it
+2. i fix it <br>
 or:
 1. you open pull request
 2. i view it
