@@ -1,4 +1,4 @@
-# how to help my dumbass
+# how to help my idiot self
 
 if you somehow found this project then:
 1. how the hell did you find me
